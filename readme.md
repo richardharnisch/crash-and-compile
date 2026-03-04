@@ -1,1 +1,1 @@
-Solutions for Cover's [Crash and Compile](https://svcover.nl/events/5097) event for the team "300 Hard Men" consisting of Richard Harnisch and Nick de Hei. Won 3rd place.
+Solutions for Cover's [Crash and Compile](https://svcover.nl/events/5097) event for the team "300 Hard Men" consisting of Richard Harnisch and Nick de Hei. Won 3rd place and solved 5/6 puzzles.
