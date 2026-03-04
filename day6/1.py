@@ -1,10 +1,5 @@
 import sys
-import os
 
-sys.path.insert(0, os.path.join(os.path.dirname(__file__), "../.."))
-from utils import *
-
-DEBUG = 0
 
 input = [int(i) for i in sys.stdin.read().strip().split("\n")]
 highest = max(*input)
